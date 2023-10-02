@@ -7,5 +7,5 @@ Git hub repo gestito dagli studenti di informatica di Tor Vergata per il corso d
 
 ## Altre risorse
 - [SITO DI STELLATO (primo modulo)](https://www.mat.uniroma2.it/~speleers/teaching/nmcgj/TIJ4.pdf)
----
-# [Diario delle lezioni](./Diario_delle_lezioni.md)
+-------------------
+## [Diario delle lezioni](./Diario_delle_lezioni.md)
