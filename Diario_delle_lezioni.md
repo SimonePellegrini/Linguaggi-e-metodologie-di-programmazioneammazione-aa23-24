@@ -11,3 +11,15 @@ Slide usate a lezione:
 [Slide 1](https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html),
 [Slide 2](https://docs.oracle.com/javase/tutorial/getStarted/cupojava/index.html),
 [Slide 3](https://docs.oracle.com/javase/tutorial/getStarted/cupojava/netbeans.html)
+
+## Lezione 3 del 2023-10-09
+Introduzione alle classi, agli oggetti e ai metodi, ereditarietà fra classi, interface delle classi e package (namespace). Esempi di codice riguardanti i temi trattati.
+
+Slide usate a lezione:
+[Slide 1](https://docs.oracle.com/javase/tutorial/java/concepts/),
+[Slide 2](https://docs.oracle.com/javase/tutorial/java/concepts/object.html),
+[Slide 3](https://docs.oracle.com/javase/tutorial/java/concepts/class.html),
+[Slide 4](https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html),
+[Slide 5](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html),
+[Slide 6](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)
+
