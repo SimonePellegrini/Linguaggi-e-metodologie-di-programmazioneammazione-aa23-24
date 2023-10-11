@@ -23,3 +23,8 @@ Slide usate a lezione:
 [Slide 5](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html),
 [Slide 6](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)
 
+## Lezione 4 del 2023-10-11
+Ripasso degli argomenti della lezione precedente, overriding, i diversi tipi di variabili (campi statici, campi dinamici, parametri, variabili locali)
+
+Slide usate a lezione:
+[slide 1](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
