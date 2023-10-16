@@ -28,3 +28,11 @@ Ripasso degli argomenti della lezione precedente, overriding, i diversi tipi di 
 
 Slide usate a lezione:
 [slide 1](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
+
+## Lezione 5 del 2023-10-11
+Cenni a naming convention, le variabili di tipo final, tipi di dato primitivo (interi,float,double,ecc..), array e stringhe, cenni ai meccanismi di codifica unicode e utf-8, cenni al meccanismo di conversione implicita di java (operazione di boxing e metodo toString), array multidimensionali.
+
+Slide usate a lezione:
+[slide 1](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html),
+[slide 2](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html),
+[slide 3](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
