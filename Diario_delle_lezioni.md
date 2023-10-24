@@ -51,3 +51,7 @@ Operatori aritmetici, operatori relazionali, operatori condizionali, type compar
 [slide 9](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html),
 [slide 10](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
 
+## Lezione 7 del 2023-10-23
+Classi, costruttori, costruttore di default, modificatori public e private, overloading.
+
+slide non pervenute
