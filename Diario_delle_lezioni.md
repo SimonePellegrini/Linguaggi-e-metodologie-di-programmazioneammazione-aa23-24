@@ -54,4 +54,14 @@ Operatori aritmetici, operatori relazionali, operatori condizionali, type compar
 ## Lezione 7 del 2023-10-23
 Classi, costruttori, costruttore di default, modificatori public e private, overloading.
 
-slide non pervenute
+[slide 1](https://docs.oracle.com/javase/tutorial/java/javaOO/)
+[slide 2](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
+[slide 3](https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html)
+[slide 4](https://docs.oracle.com/javase/tutorial/java/javaOO/variables.html)
+[slide 5](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
+[slide 6](https://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html)
+
+## Lezione 8 del 2023-10-25
+Parametri e argomenti di un metodo, oggetti, dichiarazione, instazazione e inizializzazione di un oggetto, accesso ai campi di un oggetto, garbage collector, operatore this.
+
+[slide da inserire]
