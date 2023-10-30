@@ -62,6 +62,14 @@ Classi, costruttori, costruttore di default, modificatori public e private, over
 [slide 6](https://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html)
 
 ## Lezione 8 del 2023-10-25
-Parametri e argomenti di un metodo, oggetti, dichiarazione, instazazione e inizializzazione di un oggetto, accesso ai campi di un oggetto, garbage collector, operatore this.
+Parametri e argomenti di un metodo, oggetti, dichiarazione, instanziazione e inizializzazione di un oggetto, accesso ai campi di un oggetto, garbage collector, operatore this.
 
-[slide da inserire]
+[slide 1](https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html)
+[slide 2](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
+[slide 3](https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html)
+[slide 4](https://docs.oracle.com/javase/tutorial/java/javaOO/usingobject.html)
+[slide 5](https://docs.oracle.com/javase/tutorial/java/javaOO/returnvalue.html)
+[slide 6](https://docs.oracle.com/javase/tutorial/java/javaOO/thiskey.html)
+
+## Lezione 9 del 2023-10-30
+Esercitazione in classe 
