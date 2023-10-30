@@ -72,4 +72,5 @@ Parametri e argomenti di un metodo, oggetti, dichiarazione, instanziazione e ini
 [slide 6](https://docs.oracle.com/javase/tutorial/java/javaOO/thiskey.html)
 
 ## Lezione 9 del 2023-10-30
-Esercitazione in classe 
+Esercitazione in classe (il codice della esercitazione può essere trovato nella sezione programmi_java)
+
